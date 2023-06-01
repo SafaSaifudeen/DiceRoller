@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/dice1_checkbox"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content"
+        android:text="Dice 1" />
+
+    <CheckBox
+        android:id="@+id/dice2_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dice 2" />
+    <CheckBox
+        android:id="@+id/dice3_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dice 3" />
+
+    <CheckBox
+        android:id="@+id/dice4_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dice 4" />
+
+    <CheckBox
+        android:id="@+id/dice5_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dice 5" />
+
+
+
+
+</LinearLayout>

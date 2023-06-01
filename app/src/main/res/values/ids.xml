@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_player4" type="id" />
+    <item name="iv_player2" type="id" />
+    <item name="iv_cpu4" type="id" />
+    <item name="tv_cpu" type="id" />
+    <item name="tvHelp" type="id" />
+    <item name="iv_cpu" type="id" />
+    <item name="iv_cpu2" type="id" />
+    <item name="iv_cpu3" type="id" />
+    <item name="iv_cpu5" type="id" />
+    <item name="tv_vs" type="id" />
+    <item name="iv_player" type="id" />
+    <item name="iv_player3" type="id" />
+    <item name="iv_player5" type="id" />
+    <item name="tv_player" type="id" />
+    <item name="button" type="id" />
+    <item name="button2" type="id" />
+    <item name="rethrow" type="id" />
+</resources>
